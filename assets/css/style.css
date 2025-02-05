@@ -1,0 +1,19 @@
+#container {
+
+   position: absolute;
+width: 1000px;
+height: 600px;
+background-color:greenyellow;
+}
+
+#runner
+    {
+      position: absolute;
+        max-height: 150px;
+    }
+
+
+.obstacle {
+      position: absolute;
+    max-width: 50px;
+}
